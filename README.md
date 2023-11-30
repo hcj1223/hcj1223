@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ug1y-b0y)
 
-<img align="right" alt="img" src="https://github.com/ug1y-b0y/ug1y-b0y/blob/main/myself.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/ug1y-b0y/ug1y-b0y/blob/main/myself.jpg" width="30%" height="auto" />
  
 #### 🌻 My Social Media 🌻
 - QQ: 1651753074
@@ -12,7 +12,6 @@
 
 #### :computer: Programming languages and tools :computer: : 
 <p>
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
