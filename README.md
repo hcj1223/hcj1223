@@ -1,9 +1,7 @@
-### Hi there 👋 This is ug1yb0y ！✨ 
+### Hi there 👋 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ug1y-b0y)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ug1y-b0y)
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ug1y-b0y)
- 
+
 <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
  
 #### 🌻 My Social Media 🌻
