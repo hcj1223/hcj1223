@@ -6,21 +6,12 @@
  
 <img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
  
-#### 🌱 Things I am currently working on 🌱 : 
-- Taking online courses about Data Science and Machine Learning 
-- [My website](https://ug1y-b0y.github.io) 🚀 *coming soon*
- 
-#### ⚡ Things recent ones I'm interested in ⚡ : 
-- Chat GPT
-- Stable Diffusion
-- Image generation
-- Layout2image
-- pix2pix
+#### 🌻 My Social Media 🌻
+- QQ: 1651753074
+- WeChat: ug1yb0y
+- 贴吧: 香脆辣鸡
+- bilibili: 99593271
 
-#### 🌻 I am studying 🌻
-- IELTS
-- French
-- German
 #### :computer: Programming languages and tools :computer: : 
 <p>
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=zhanglina94&show_icons=true&hide_border=true" />
