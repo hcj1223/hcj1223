@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ug1y-b0y)
 
-<img align="right" alt="img" src="https://github.com/zhanglina94/zhanglina94/blob/main/img/pic.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/ug1y-b0y/ug1y-b0y/blob/main/myself.jpg" width="50%" height="auto" />
  
 #### 🌻 My Social Media 🌻
 - QQ: 1651753074
