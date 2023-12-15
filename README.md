@@ -8,7 +8,7 @@
 - school: Beijing University of Chemical Technology
 - hometown：Jiangsu, china
 
-#### 🌻 My Social Media 🌻
+#### 🌻 Social Media 🌻
 - QQ: 1651753074
 - WeChat: ug1yb0y
 - 贴吧: 香脆辣鸡
