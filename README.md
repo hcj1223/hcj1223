@@ -6,7 +6,7 @@
 
 #### 💎 Introduction 💎
 - school: Beijing University of Chemical Technology
-- hometown：Jiangsu, China🇨🇳
+- hometown：Jiangsu, China
 
 #### 🌻 Social Media 🌻
 - QQ: 1651753074
