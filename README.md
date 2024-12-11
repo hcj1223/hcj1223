@@ -10,7 +10,5 @@
 
 #### 🌻 Social Media 🌻
 - QQ: 1651753074
-- WeChat: ug1yb0y
 - 贴吧: 香脆辣鸡
 - bilibili: hcj1223
-- steam: 309357213
