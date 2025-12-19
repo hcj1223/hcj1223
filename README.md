@@ -6,7 +6,7 @@
 
 #### 💎 Introduction 💎
 - Undergraduate: Beijing University of Chemical Technology, BUCT
-- Graduate: Beijing University Of Posts and Telecommunications, BUPT
+- Graduate: Beijing University of Posts and Telecommunications, BUPT
 - hometown：Jiangsu, China
 
 #### 🌻 Social Media 🌻
