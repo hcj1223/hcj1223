@@ -5,7 +5,8 @@
 <img align="right" alt="img" src="https://github.com/ug1y-b0y/ug1y-b0y/blob/main/xiaochun.jpg" width="40%" height="auto" />
 
 #### 💎 Introduction 💎
-- school: Beijing University of Chemical Technology
+- Undergraduate: Beijing University of Chemical Technology, BUCT
+- Graduate: Beijing University Of Posts and Telecommunications, BUPT
 - hometown：Jiangsu, China
 
 #### 🌻 Social Media 🌻
